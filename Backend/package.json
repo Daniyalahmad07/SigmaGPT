@@ -1,4 +1,6 @@
-{
+{  "engines": {
+  "node": "22.14.0"
+  },
   "name": "sigmagpt-backend",
   "version": "1.0.0",
   "type": "module",
